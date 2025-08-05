@@ -1,0 +1,2 @@
+# optiscaler-installer
+Installs Optiscaler
